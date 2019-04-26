@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 21/04/2019
 title: Todays Update
 theme: dark
 img: None

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flight to CHCH
-date: 23/04/2019
 theme: dark
 img: None
 ---

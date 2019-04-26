@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pandoc cont.
-date: 22/04/2019
 theme: dark
 img: "/assets/img/post-images/Queenstown.jpg"
 ---
